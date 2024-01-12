@@ -1,0 +1,72 @@
+_repo: Histoire-des-enseignes-de-Paris_72534
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Cousin, Jules
+    birthdate: 1830
+    deathdate: 1899
+    gutenberg_agent_id: '56719'
+    url: http://www.gutenberg.org/2009/agents/56719
+  illustrator:
+    agent_name: Fournier, Louis Édouard
+    aliases:
+    - Fournier, Louis-Édouard
+    - Fournier, Louis Edouard
+    birthdate: 1857
+    deathdate: 1917
+    gutenberg_agent_id: '56718'
+    url: http://www.gutenberg.org/2009/agents/56718
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Louis_%C3%89douard_Fournier
+    - https://fr.wikipedia.org/wiki/Louis_%C3%89douard_Fournier
+creator:
+  author:
+    agent_name: Fournier, Edouard
+    alias: Fournier, Édouard
+    birthdate: 1819
+    deathdate: 1880
+    gutenberg_agent_id: '36482'
+    url: http://www.gutenberg.org/2009/agents/36482
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/%C3%89douard_Fournier
+    - https://en.wikipedia.org/wiki/%C3%89douard_Fournier
+  editor:
+    agent_name: Jacob, P. L.
+    aliases:
+    - Lacroix, Paul
+    - Jacob, Paul L.
+    - Dufour, Pierre
+    - Jacob, Bibliophile
+    - Jacob, Paul Lacroix
+    birthdate: 1806
+    deathdate: 1884
+    gutenberg_agent_id: '4290'
+    url: http://www.gutenberg.org/2009/agents/4290
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Paul_Lacroix
+    - https://fr.wikipedia.org/wiki/Paul_Lacroix_(%C3%A9crivain)
+description: ''
+gutenberg_issued: '2023-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72534'
+  lccn: 04020926
+language: fr
+pgterms:marc904: https://archive.org/details/histoiredesensei00unse
+pgterms:marc905: 20230205093017fournier
+pgterms:marc906: '1884'
+pgterms:marc907: FR
+production_note: Laurent Vogel, Chuck Greif and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aParis :$bE. Dentu, $c1884.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Signs and signboards -- France -- Paris'
+- !lcsh 'Paris (France) -- Antiquities'
+- !lcc 'DC'
+- GITenberg
+title: Histoire des enseignes de Paris
+url: http://www.gutenberg.org/ebooks/72534
