@@ -19,6 +19,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Louis_%C3%89douard_Fournier
     - https://fr.wikipedia.org/wiki/Louis_%C3%89douard_Fournier
+covers:
+- cover_type: archival
+  image_path: 72534-h/images/cover.jpg
 creator:
   author:
     agent_name: Fournier, Edouard
@@ -46,6 +49,8 @@ creator:
     - https://en.wikipedia.org/wiki/Paul_Lacroix
     - https://fr.wikipedia.org/wiki/Paul_Lacroix_(%C3%A9crivain)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72534#Histoire-des-enseignes-de-Paris
 gutenberg_issued: '2023-12-29'
 gutenberg_type: Text
 identifiers:
